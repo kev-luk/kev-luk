@@ -1,6 +1,6 @@
 ## Hi, I'm Kevin! :smile: :raising_hand_man:
 
-I am an aspiring software engineer and full stack developer who is passionate about creating technology that unites and betters people's lives.
+I am an aspiring software engineer and full stack developer that's creating whatever comes to mind.
 
 I am currently attending the University of Virginia and studying Computer Science.
 
