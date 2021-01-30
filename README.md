@@ -7,6 +7,6 @@ I am currently attending the University of Virginia and studying Computer Scienc
 You can find me here 🌎:
 - Github... but you already found it! :octocat: 
 - My [LinkedIn](https://www.linkedin.com/in/kevin-luk/) profile :necktie:
-- Personal website (coming soon) :construction:
+- [Personal website](https://kevinluk.netlify.app/) (work in progress) :construction:
 
 Thanks for visiting and come again soon! :wave:
