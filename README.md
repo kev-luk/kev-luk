@@ -2,7 +2,7 @@
 
 I am an aspiring software engineer and full stack developer that's creating whatever comes to mind.
 
-I am currently attending the University of Virginia and studying Computer Science.
+I am currently working at CoStar Group.
 
 You can find me here :earth_americas::
 - My [LinkedIn](https://www.linkedin.com/in/kevin-luk/) profile :necktie:
