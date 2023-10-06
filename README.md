@@ -1,8 +1,8 @@
 ## Hi, I'm Kevin! :smile: :raising_hand_man:
 
-I am an aspiring software engineer and full stack developer that's creating whatever comes to mind.
+I'm a software engineer who's creating whatever comes to mind.
 
-I am currently working at CoStar Group.
+I'm currently working at CoStar Group.
 
 You can find me here :earth_americas::
 - My [LinkedIn](https://www.linkedin.com/in/kevin-luk/) profile :necktie:
